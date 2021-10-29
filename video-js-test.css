@@ -1,4 +1,4 @@
 /* closed caption menu */
-.vjs-menu-item {
+.vjs-menu-item.vjs-selected {
   color: #fff;
 }
